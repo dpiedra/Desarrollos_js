@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+
+<div id="content"></div>
+
+</body>
+</html>
+
+<script type="text/html" id="my-view-template">
+    <div class="row">
+        <label>First Name:</label>
+        <span><%= firstName %></span>
+    </div>
+    <div class="row">
+        <label>Last Name:</label>
+        <span><%= lastName %></span>
+    </div>
+    <div class="row">
+        <label>Email:</label>
+        <span><%= email %></span>
+    </div>
+</script>
+
+
+
+<script src="js/libs/jquery.min.js"></script>
+<script src="js/libs/underscore-min.js"></script>
+<script src="js/libs/backbone-min.js"></script>
+<script src="js/libs/backbone.marionette.min.js"></script>
+
+<script>
+    var ContentRegion = new Marionette.Region({
+        el: '#content'
+    });
+
+    var MyView = Marionette.ItemView.extend({
+       template: '#my-view-template'
+    });
+
+    var PersonModel = Backbone.Model.extend({
+        default: {
+            firstName:'Nuria',
+            lastName:'Pulido',
+            email:'nmPulido@gmail.com'
+        }
+    });
+
+    var personModel = new PersonModel({firstName:'david', lastName:'piedra', email:'dpiedra@gmail.com'});
+
+    var myView = new MyView ({model:personModel});
+    ContentRegion.show (myView);
+
+
+</script>
+
+

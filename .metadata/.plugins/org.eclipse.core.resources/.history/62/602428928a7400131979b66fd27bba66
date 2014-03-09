@@ -1,0 +1,8 @@
+var ModeloTodo = Backbone.Model.extend({
+	
+	defaults:{
+		tittle:'',
+		completed: false
+	}
+	
+});

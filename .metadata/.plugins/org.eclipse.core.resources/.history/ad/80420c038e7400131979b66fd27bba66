@@ -1,0 +1,15 @@
+var ModeloTodo = Backbone.Model.extend({
+
+	defaults : {
+		title : '',
+		completed : false
+	}
+
+});
+
+var modeloTodo = new ModeloTodo({
+	title : 'esto es una prueba'
+});
+
+console.log(modeloTodo.get('title'));
+

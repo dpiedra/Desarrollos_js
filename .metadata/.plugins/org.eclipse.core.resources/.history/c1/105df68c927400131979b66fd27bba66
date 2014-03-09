@@ -1,0 +1,25 @@
+var ModeloTodo = Backbone.Model.extend({
+
+	defaults : {
+		title : '',
+		completed : false
+	},
+	initialize: function(){
+		console.log ('El modlelo se ha iniciado correctamente');
+		this.on ('change:title',function(){
+			console.log( 'El tutulo ha sido cambiado por ' + this.get('title') );
+		});
+	}
+
+});
+
+var modeloTodo = new ModeloTodo({
+	title : 'esto es una prueba'
+});
+
+var todo1Attributes = modeloTodo.toJSON();
+console.log( todo1Attributes );
+
+modeloTodo.set('title','esto es otra prueba');
+
+console.log( JSON.stringify(modeloTodo) );

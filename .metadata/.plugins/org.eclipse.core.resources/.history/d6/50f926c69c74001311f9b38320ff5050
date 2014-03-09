@@ -1,0 +1,34 @@
+var TodoView = Backbone.View.extend({
+	tagName : 'li',
+
+	todoTpl : _.template('Esto es un ejemplo'),
+
+	events : {
+		'dblclick label' : 'edit',
+		'keypress .edit' : 'updateOnEnter',
+		'blur .edit' : 'close'
+	},
+	
+	render : function(){
+		this.$el.html( this.todoTpl(this.model.toJSON()) );
+		this.input = this.$('.edit');
+		return this;
+	},
+	
+	edit: function(){
+		
+	},
+	
+	updateOnEnter: function(){
+		
+	},
+	
+	close: function(){
+		
+	}
+});
+
+
+var todoView = new TodoView();
+
+console.log (todoView.el);

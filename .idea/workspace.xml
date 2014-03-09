@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c0bdf52-9f53-496a-8f05-5274076b7754" name="Default" comment="" />
+    <ignored path="Desarrollos_js.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Desarrollos_js" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/index.html" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/js/app.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/js/collections/library.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/js/models/book.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/css/screen.css" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/js/libs/jquery.min.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/js/views/library.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/js/views/book.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/node/server.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/package.json" />
+        <option value="$PROJECT_DIR$/backbone_js/iniciarMongo.sh" />
+        <option value="$PROJECT_DIR$/backbone_js/inciarNginx.sh" />
+        <option value="$PROJECT_DIR$/backbone_js/iniciarTodo.sh" />
+        <option value="$PROJECT_DIR$/backbone_js/iniciarNode.sh" />
+        <option value="$PROJECT_DIR$/backbone_js/pararNginx.sh" />
+        <option value="$PROJECT_DIR$/backbone_js/js/iniciarNode.sh" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/views/user.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/models/user.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/models/userModel.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/views/userView.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/site/css/screen.css" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/collections/userCollection.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/collections/library.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/inciarNginx.sh" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/libs/query-dateFormat.min.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/models/book.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/app.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/site/index.html" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/views/library.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio2/server.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio3/index.html" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio3/site/js/index.html" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio3/site/js/libs/backbone.marionette.min.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio3/site/indexZombie.html" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio3/site/index.html" />
+        <option value="$PROJECT_DIR$/backbone_js/js/ejercicio3/site/regionMarionette.html" />
+        <option value="$PROJECT_DIR$/backbone_js/js/todomvc/site/js/libs/backbone-localStorage.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/todomvc/site/js/libs/backbone.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/todomvc/site/js/libs/backbone.marionette.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/todomvc/site/js/TodoMVC.Layout..js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/todomvc/site/js/TodoMVC.Layout.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/todomvc/site/js/TodoMVC.TodoList.Views.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/todomvc/site/js/TodoMVC.TodoList.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/todomvc/site/js/TodoMVC.Todos.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/todomvc/site/js/TodoMVC.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/todomvc/site/js/libs/base.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/todomvc/site/js/libs/lodash.min.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/todomvc/site/css/base.css" />
+        <option value="$PROJECT_DIR$/backbone_js/js/todomvc/site/js/libs/ie.js" />
+        <option value="$PROJECT_DIR$/backbone_js/js/todomvc/site/css/app.css" />
+        <option value="$PROJECT_DIR$/backbone_js/js/todomvc/site/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Desarrollos_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Desarrollos_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Desarrollos_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Desarrollos_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Desarrollos_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backbone_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Desarrollos_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Desarrollos_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backbone_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Desarrollos_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Desarrollos_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backbone_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Desarrollos_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Desarrollos_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backbone_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="SearchEverywhereHistory" value="bg.png&#10;bookContainer" />
+    <property name="options.lastSelected" value="editor.preferences.import" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Genoma_API_Front/genoma_transacional" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backbone_js/js/todomvc/site/js/libs" />
+      <recent name="$PROJECT_DIR$/backbone_js/js/todomvc" />
+      <recent name="$PROJECT_DIR$/backbone_js/js/ejercicio3" />
+      <recent name="$PROJECT_DIR$/backbone_js/js/ejercicio2/site/css" />
+      <recent name="$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backbone_js/js/ejercicio3/site" />
+      <recent name="$PROJECT_DIR$/backbone_js/js" />
+      <recent name="$PROJECT_DIR$/backbone_js/js/ejercicio2/site" />
+      <recent name="$PROJECT_DIR$/backbone_js/js/ejercicio2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="inciarNginx.sh (2)" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backbone_js/js" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <module name="Desarrollos_js" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backbone_js/js/inciarNginx.sh" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="BashRunner" />
+      <ConfigurationWrapper RunnerId="BashRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pararNginx.sh (1)" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backbone_js/js" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <module name="Desarrollos_js" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backbone_js/js/pararNginx.sh" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="BashRunner" />
+      <ConfigurationWrapper RunnerId="BashRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pararNginx.sh (2)" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backbone_js/js" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <module name="Desarrollos_js" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backbone_js/js/pararNginx.sh" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="BashRunner" />
+      <ConfigurationWrapper RunnerId="BashRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="inciarNginx.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backbone_js/js" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <module name="Desarrollos_js" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backbone_js/js/inciarNginx.sh" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="BashRunner" />
+      <ConfigurationWrapper RunnerId="BashRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="iniciarMongo.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backbone_js/js" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <module name="Desarrollos_js" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backbone_js/js/iniciarMongo.sh" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="BashRunner" />
+      <ConfigurationWrapper RunnerId="BashRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <module name="Desarrollos_js" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <test-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>BDD</ui>
+      <require />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" uri="http://localhost:63342/Desarrollos_js/backbone_js/js/ejercicio3/site/indexZombie.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="Bash.inciarNginx.sh (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Bash.pararNginx.sh (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Bash.pararNginx.sh (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Bash.inciarNginx.sh" />
+      <item index="5" class="java.lang.String" itemvalue="Bash.iniciarMongo.sh" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Bash.iniciarMongo.sh" />
+        <item index="1" class="java.lang.String" itemvalue="Bash.inciarNginx.sh" />
+        <item index="2" class="java.lang.String" itemvalue="Bash.pararNginx.sh (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Bash.pararNginx.sh (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Bash.inciarNginx.sh (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c0bdf52-9f53-496a-8f05-5274076b7754" name="Default" comment="" />
+      <created>1390766852444</created>
+      <updated>1390766852444</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28402779" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34349355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39976552" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/iniciarNode.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="10" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="120" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/iniciarMongo.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="1" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="135" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="11" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="3" selection-start="3169" selection-end="3169" vertical-scroll-proportion="0.0" vertical-offset="1650" max-vertical-offset="1905" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="1" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="11" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="780" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="756" selection-end="756" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/views/library.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="795" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/libs/backbone-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="812" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio1/colectionTodo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="76" selection-start="731" selection-end="731" vertical-scroll-proportion="0.49574727" vertical-offset="0" max-vertical-offset="1360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/libs/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="31942" selection-start="96380" selection-end="96380" vertical-scroll-proportion="0.05541872" vertical-offset="0" max-vertical-offset="812" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/iniciarNode.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.082720585" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/css/screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="42" selection-start="1158" selection-end="1163" vertical-scroll-proportion="0.0" vertical-offset="926" max-vertical-offset="1635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="1" selection-start="237" selection-end="237" vertical-scroll-proportion="0.2596154" vertical-offset="0" max-vertical-offset="520" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/models/userModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="10" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/collections/library.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="21" selection-start="152" selection-end="152" vertical-scroll-proportion="0.24816176" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/pararNginx.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="11" selection-end="11" vertical-scroll-proportion="0.05514706" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/inciarNginx.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="90" selection-end="90" vertical-scroll-proportion="0.19301471" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/libs/query-dateFormat.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="4623" selection-start="4659" selection-end="4659" vertical-scroll-proportion="0.028248588" vertical-offset="0" max-vertical-offset="531" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/libs/jquery-ui.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="531" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/css/jquery-ui.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="531" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/collections/userCollection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/models/book.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/views/book.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="24" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="39" max-vertical-offset="700" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/views/userView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/views/library.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="40" selection-start="1029" selection-end="1037" vertical-scroll-proportion="0.60110295" vertical-offset="376" max-vertical-offset="1349" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="38" selection-start="1742" selection-end="1742" vertical-scroll-proportion="0.3272727" vertical-offset="765" max-vertical-offset="2670" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/iniciarMongo.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="1" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio3/site/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="0" selection-start="1529" selection-end="1777" vertical-scroll-proportion="0.39423078" vertical-offset="470" max-vertical-offset="990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio2/site/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="3" selection-start="174" selection-end="174" vertical-scroll-proportion="0.34375" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio3/site/js/libs/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="531" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio3/site/js/libs/backbone.marionette.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="44" selection-start="21867" selection-end="21867" vertical-scroll-proportion="0.6369427" vertical-offset="0" max-vertical-offset="471" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio3/site/regionMarionette.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="7" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.60913706" vertical-offset="892" max-vertical-offset="1848" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio3/site/indexZombie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="0" selection-start="1445" selection-end="1628" vertical-scroll-proportion="0.5241117" vertical-offset="1171" max-vertical-offset="2160" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/todomvc/site/js/libs/backbone-localStorage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="5" selection-start="5012" selection-end="5012" vertical-scroll-proportion="0.96363634" vertical-offset="1230" max-vertical-offset="2115" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/todomvc/site/js/libs/backbone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1430" column="14" selection-start="59462" selection-end="59462" vertical-scroll-proportion="0.96363634" vertical-offset="20655" max-vertical-offset="21540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/todomvc/site/js/libs/backbone.marionette.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1345" column="63" selection-start="48411" selection-end="48411" vertical-scroll-proportion="0.96363634" vertical-offset="19380" max-vertical-offset="20265" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/todomvc/site/js/TodoMVC.TodoList.Views.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="3" selection-start="3746" selection-end="3746" vertical-scroll-proportion="0.0" vertical-offset="1290" max-vertical-offset="2175" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/ejercicio3/site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="474" selection-end="1065" vertical-scroll-proportion="0.4307116" vertical-offset="45" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/todomvc/site/js/libs/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="344" selection-end="344" vertical-scroll-proportion="0.11083744" vertical-offset="0" max-vertical-offset="812" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/todomvc/site/js/libs/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="812" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/todomvc/site/js/libs/lodash.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="432" selection-start="17865" selection-end="17865" vertical-scroll-proportion="0.70197046" vertical-offset="0" max-vertical-offset="812" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/todomvc/site/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="413" column="1" selection-start="8591" selection-end="8591" vertical-scroll-proportion="0.96363634" vertical-offset="5400" max-vertical-offset="6285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/todomvc/site/js/libs/ie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="480" selection-start="15651" selection-end="15651" vertical-scroll-proportion="0.7389163" vertical-offset="0" max-vertical-offset="812" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/todomvc/site/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="1" selection-start="145" selection-end="145" vertical-scroll-proportion="0.12727273" vertical-offset="0" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/todomvc/site/js/TodoMVC.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="3" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/todomvc/site/js/TodoMVC.TodoList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="643" selection-end="643" vertical-scroll-proportion="-0.24261084" vertical-offset="989" max-vertical-offset="3168">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/todomvc/site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="27" selection-start="979" selection-end="983" vertical-scroll-proportion="0.04494382" vertical-offset="429" max-vertical-offset="1230">
+          <folding>
+            <marker date="1393187131000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1393187131000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1393187131000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1393187131000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1393187131000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/todomvc/site/js/TodoMVC.Layout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="31" selection-start="850" selection-end="860" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2100">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbone_js/js/todomvc/site/js/TodoMVC.Todos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="20" selection-start="267" selection-end="279" vertical-scroll-proportion="0.018181818" vertical-offset="150" max-vertical-offset="975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

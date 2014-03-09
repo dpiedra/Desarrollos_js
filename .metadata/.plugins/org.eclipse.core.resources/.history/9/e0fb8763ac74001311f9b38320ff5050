@@ -1,0 +1,36 @@
+var Todo = Backbone.Model.extend({
+  defaults: {
+    title: '',
+    number:1,
+    completed: false
+  }
+});
+
+var myTodo = new Todo();
+myTodo.set({title: 'Buy some cookies', completed: true});
+
+myTodo.on({
+   'change:title' : titleChanged,
+   'change:number' : numberChanged,
+   'change:completed' : stateChanged
+});
+
+function titleChanged(){
+  console.log('The title was changed!');
+}
+
+function numberChanged(){
+  console.log('The number was changed!');
+}
+
+function stateChanged(){
+  console.log('The state was changed!');
+}
+
+myTodo.set({title: 'Get the groceries'});
+// The title was changed! 
+
+myTodo.set ({number:2});
+
+myTodo.set ({completed: true});
+console.log (JSON.stringify(myTodo));

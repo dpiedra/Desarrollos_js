@@ -1,0 +1,4 @@
+var TodosView = Backbone.View.extend();
+
+var todosView = new TodosView();
+console.log (todosView.el); // logs <ul id="todos" class="container"></ul>

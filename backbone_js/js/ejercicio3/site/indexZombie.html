@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div id="content"></div>
+</body>
+</html>
+
+<script type="text/html" id="my-view-template">
+    <div class="row">
+        <label>First Name:</label>
+        <span><%= firstName %></span>
+    </div>
+    <div class="row">
+        <label>Last Name:</label>
+        <span><%= lastName %></span>
+    </div>
+    <div class="row">
+        <label>Email:</label>
+        <span><%= email %></span>
+    </div>
+</script>
+
+
+
+<script src="js/libs/jquery.min.js"></script>
+<script src="js/libs/underscore-min.js"></script>
+<script src="js/libs/backbone-min.js"></script>
+<script src="js/libs/backbone.marionette.min.js"></script>
+
+<script>
+    /*
+    var ZombieView = Backbone.View.extend({
+        template: '#my-view-template',
+
+        initialize: function() {
+            // bind the model change to re-render this view
+            this.listenTo(this.model, 'change', this.render);
+        },
+
+        close: function() {
+            // unbind the events that this view is listening to
+            this.stopListening();
+        },
+
+        render: function() {
+
+            // This alert is going to demonstrate a problem
+            alert('We`re rendering the view');
+
+        }
+    });
+
+*/
+
+    var MyView = Marionette.ItemView.extend({
+        template: '#my-view-template',
+
+        initialize: function(){
+            this.listenTo (this.model,'change', this.render);
+        }
+    });
+
+
+    var PersonModel = Backbone.Model.extend({
+        default: {
+            firstName:'Nuria',
+            lastName:'Pulido',
+            email:'nmPulido@gmail.com'
+        }
+    });
+
+    var personModel = new PersonModel({firstName:'David',lastName:'Piedra', email:'dpiedra@gmail.com'});
+
+    var myView = new MyView({model:personModel});
+
+    //personModel.set({email:'prueba@gmail.com'});
+
+    myView.render();
+
+    $('#content').html(myView.el);
+
+</script>
