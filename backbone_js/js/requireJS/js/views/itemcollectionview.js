@@ -1,21 +1,31 @@
-define(["lib/backbone", "models/item", "views/itemview"], function(Backbone, Item, ItemView) {
+define([
+    "lib/backbone",
+    "models/item",
+    "views/itemview"],
+
+function(Backbone, Item, ItemView) {
+
   var ItemCollectionView = Backbone.View.extend({
     el: '#yourcart',
+
     initialize: function(collection) {
       this.collection = collection;
       this.render();
       this.collection.on("reset", this.render, this);
     },
+
     render: function() {
       this.$el.html("");
       this.collection.each(function(item) {
         this.renderItem(item);
       }, this);
     },
+
     renderItem: function(item) {
       var itemView = new ItemView({model: item});
       this.$el.append(itemView.render().el);
     },
+
     addItem: function() {
       var data = {};
       $("#add").children("input[type='text']").each(function(i, el) {
@@ -25,6 +35,7 @@ define(["lib/backbone", "models/item", "views/itemview"], function(Backbone, Ite
       this.collection.add(newItem);
       this.renderItem(newItem);
     },
+
     filterByPrice: function() {
       // first reset the collection
       // but do it silently so the event doesn't trigger
@@ -37,10 +48,13 @@ define(["lib/backbone", "models/item", "views/itemview"], function(Backbone, Ite
       // but this time trigger the event so the collection view is rerendered
       this.collection.reset(filtered);
     },
+
     clearFilter: function() {
       $("#less-than").val("");
       this.collection.reset(items);
     }
+
   });
+
   return ItemCollectionView;
 });

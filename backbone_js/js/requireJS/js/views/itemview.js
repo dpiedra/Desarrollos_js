@@ -1,4 +1,7 @@
-define(["lib/backbone"], function(Backbone) {
+define(
+    ["lib/backbone"],
+
+ function(Backbone) {
   var ItemView = Backbone.View.extend({
     tagName: "div",
     className: "item-wrap",
